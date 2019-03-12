@@ -4,9 +4,10 @@ def fizzbuzz(num)
   # if num % 3 ==0 || num % 5==0
   if num %3==0 
   "Fizz"
-end
+  end
   if num %5==10
   "Buzz"
+end
   if num% 3==0 && num % 5==0
   "FizzBuzz"
   end 
